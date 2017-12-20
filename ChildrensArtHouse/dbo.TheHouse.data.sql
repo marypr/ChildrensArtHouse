@@ -1,0 +1,3 @@
+﻿SET IDENTITY_INSERT [dbo].[TheHouse] ON
+DBCC CHECKIDENT (TheHouse, RESEED, 0) 
+SET IDENTITY_INSERT [dbo].[TheHouse] OFF

@@ -1,0 +1,87 @@
+C:\Users\Владелец\Desktop\IndZad\IndZad\bin\Debug\Database1.mdf
+C:\Users\Владелец\Desktop\IndZad\IndZad\bin\Debug\Database1_log.ldf
+C:\Users\Владелец\Desktop\IndZad\IndZad\bin\Debug\IndZad.exe.config
+C:\Users\Владелец\Desktop\IndZad\IndZad\bin\Debug\IndZad.exe
+C:\Users\Владелец\Desktop\IndZad\IndZad\bin\Debug\IndZad.pdb
+C:\Users\Владелец\Desktop\IndZad\IndZad\obj\Debug\IndZad1.csprojResolveAssemblyReference.cache
+C:\Users\Владелец\Desktop\IndZad\IndZad\obj\Debug\IndZad.Form1.resources
+C:\Users\Владелец\Desktop\IndZad\IndZad\obj\Debug\IndZad.Properties.Resources.resources
+C:\Users\Владелец\Desktop\IndZad\IndZad\obj\Debug\IndZad1.csproj.GenerateResource.Cache
+C:\Users\Владелец\Desktop\IndZad\IndZad\obj\Debug\IndZad.exe
+C:\Users\Владелец\Desktop\IndZad\IndZad\obj\Debug\IndZad.pdb
+C:\Users\Владелец\Desktop\IndZad\IndZad\obj\Debug\IndZad.Form_kruzhki.resources
+C:\Users\Владелец\Desktop\IndZad - копия\IndZad\bin\Debug\IndZad.exe.config
+C:\Users\Владелец\Desktop\IndZad - копия\IndZad\obj\Debug\IndZad.exe
+C:\Users\Владелец\Desktop\IndZad - копия\IndZad\obj\Debug\IndZad.pdb
+C:\Users\Владелец\Desktop\IndZad - копия\IndZad\bin\Debug\Database1.mdf
+C:\Users\Владелец\Desktop\IndZad - копия\IndZad\bin\Debug\Database1_log.ldf
+C:\Users\Владелец\Desktop\IndZad - копия\IndZad\bin\Debug\IndZad.exe
+C:\Users\Владелец\Desktop\IndZad - копия\IndZad\bin\Debug\IndZad.pdb
+C:\Users\Владелец\Desktop\IndZad - копия\IndZad\obj\Debug\IndZad1.csprojResolveAssemblyReference.cache
+C:\Users\Владелец\Desktop\IndZad - копия\IndZad\obj\Debug\IndZad.Form1.resources
+C:\Users\Владелец\Desktop\IndZad - копия\IndZad\obj\Debug\IndZad.Form_kruzhki.resources
+C:\Users\Владелец\Desktop\IndZad - копия\IndZad\obj\Debug\IndZad.Properties.Resources.resources
+C:\Users\Владелец\Desktop\IndZad - копия\IndZad\obj\Debug\IndZad1.csproj.GenerateResource.Cache
+I:\IndZad - копия\IndZad\bin\Debug\IndZad.exe.config
+I:\IndZad - копия\IndZad\obj\Debug\IndZad.exe
+I:\IndZad - копия\IndZad\obj\Debug\IndZad.pdb
+I:\IndZad - копия\IndZad\bin\Debug\Database1.mdf
+I:\IndZad - копия\IndZad\bin\Debug\Database1_log.ldf
+I:\IndZad - копия\IndZad\bin\Debug\IndZad.exe
+I:\IndZad - копия\IndZad\bin\Debug\IndZad.pdb
+I:\IndZad - копия\IndZad\obj\Debug\IndZad1.csprojResolveAssemblyReference.cache
+I:\IndZad - копия\IndZad\obj\Debug\IndZad.Form1.resources
+I:\IndZad - копия\IndZad\obj\Debug\IndZad.Form_kruzhki.resources
+I:\IndZad - копия\IndZad\obj\Debug\IndZad.Properties.Resources.resources
+I:\IndZad - копия\IndZad\obj\Debug\IndZad1.csproj.GenerateResource.Cache
+F:\IndZad - копия\IndZad\bin\Debug\IndZad.exe.config
+F:\IndZad - копия\IndZad\obj\Debug\IndZad.exe
+F:\IndZad - копия\IndZad\obj\Debug\IndZad.pdb
+F:\IndZad - копия\IndZad\bin\Debug\Database1.mdf
+F:\IndZad - копия\IndZad\bin\Debug\Database1_log.ldf
+F:\IndZad - копия\IndZad\bin\Debug\IndZad.exe
+F:\IndZad - копия\IndZad\bin\Debug\IndZad.pdb
+F:\IndZad - копия\IndZad\obj\Debug\IndZad1.csprojResolveAssemblyReference.cache
+F:\IndZad - копия\IndZad\obj\Debug\IndZad.Form1.resources
+F:\IndZad - копия\IndZad\obj\Debug\IndZad.Form_kruzhki.resources
+F:\IndZad - копия\IndZad\obj\Debug\IndZad.Properties.Resources.resources
+F:\IndZad - копия\IndZad\obj\Debug\IndZad1.csproj.GenerateResource.Cache
+E:\IndZad - копия\IndZad\bin\Debug\IndZad.exe.config
+E:\IndZad - копия\IndZad\obj\Debug\IndZad.exe
+E:\IndZad - копия\IndZad\obj\Debug\IndZad.pdb
+D:\учеба 17 год\IndZad - копия\IndZad\bin\Debug\IndZad.exe.config
+D:\учеба 17 год\IndZad - копия\IndZad\obj\Debug\IndZad.exe
+D:\учеба 17 год\IndZad - копия\IndZad\obj\Debug\IndZad.pdb
+D:\учеба 17 год\IndZad - копия\IndZad\bin\Debug\Database1.mdf
+D:\учеба 17 год\IndZad - копия\IndZad\bin\Debug\Database1_log.ldf
+D:\учеба 17 год\IndZad - копия\IndZad\bin\Debug\IndZad.exe
+D:\учеба 17 год\IndZad - копия\IndZad\bin\Debug\IndZad.pdb
+D:\учеба 17 год\IndZad - копия\IndZad\obj\Debug\IndZad1.csprojResolveAssemblyReference.cache
+D:\учеба 17 год\IndZad - копия\IndZad\obj\Debug\IndZad.Form1.resources
+D:\учеба 17 год\IndZad - копия\IndZad\obj\Debug\IndZad.Form_kruzhki.resources
+D:\учеба 17 год\IndZad - копия\IndZad\obj\Debug\IndZad.Properties.Resources.resources
+D:\учеба 17 год\IndZad - копия\IndZad\obj\Debug\IndZad1.csproj.GenerateResource.Cache
+D:\GitFolder\Дом детского творчества с БД\IndZad\bin\Debug\IndZad.exe.config
+D:\GitFolder\Дом детского творчества с БД\IndZad\obj\Debug\IndZad.exe
+D:\GitFolder\Дом детского творчества с БД\IndZad\obj\Debug\IndZad.pdb
+D:\GitFolder\Дом детского творчества с БД\IndZad\bin\Debug\Database1.mdf
+D:\GitFolder\Дом детского творчества с БД\IndZad\bin\Debug\Database1_log.ldf
+D:\GitFolder\Дом детского творчества с БД\IndZad\bin\Debug\IndZad.exe
+D:\GitFolder\Дом детского творчества с БД\IndZad\bin\Debug\IndZad.pdb
+D:\GitFolder\Дом детского творчества с БД\IndZad\obj\Debug\IndZad1.csprojResolveAssemblyReference.cache
+D:\GitFolder\Дом детского творчества с БД\IndZad\obj\Debug\IndZad.Form1.resources
+D:\GitFolder\Дом детского творчества с БД\IndZad\obj\Debug\IndZad.Form_kruzhki.resources
+D:\GitFolder\Дом детского творчества с БД\IndZad\obj\Debug\IndZad.Properties.Resources.resources
+D:\GitFolder\Дом детского творчества с БД\IndZad\obj\Debug\IndZad1.csproj.GenerateResource.Cache
+D:\GitFolder\ChildrensArtHouse\IndZad\bin\Debug\IndZad.exe.config
+D:\GitFolder\ChildrensArtHouse\IndZad\obj\Debug\IndZad.exe
+D:\GitFolder\ChildrensArtHouse\IndZad\obj\Debug\IndZad.pdb
+D:\GitFolder\ChildrensArtHouse\IndZad\bin\Debug\Database1.mdf
+D:\GitFolder\ChildrensArtHouse\IndZad\bin\Debug\Database1_log.ldf
+D:\GitFolder\ChildrensArtHouse\IndZad\bin\Debug\IndZad.exe
+D:\GitFolder\ChildrensArtHouse\IndZad\bin\Debug\IndZad.pdb
+D:\GitFolder\ChildrensArtHouse\IndZad\obj\Debug\IndZad1.csprojResolveAssemblyReference.cache
+D:\GitFolder\ChildrensArtHouse\IndZad\obj\Debug\IndZad.Form1.resources
+D:\GitFolder\ChildrensArtHouse\IndZad\obj\Debug\IndZad.Form_kruzhki.resources
+D:\GitFolder\ChildrensArtHouse\IndZad\obj\Debug\IndZad.Properties.Resources.resources
+D:\GitFolder\ChildrensArtHouse\IndZad\obj\Debug\IndZad1.csproj.GenerateResource.Cache

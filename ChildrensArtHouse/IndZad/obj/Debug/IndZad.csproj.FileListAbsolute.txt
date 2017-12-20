@@ -1,0 +1,14 @@
+D:\projects\IndZad\IndZad\bin\Debug\IndZad.exe.config
+D:\projects\IndZad\IndZad\bin\Debug\IndZad.exe
+D:\projects\IndZad\IndZad\bin\Debug\IndZad.pdb
+D:\projects\IndZad\IndZad\obj\Debug\IndZad.csprojResolveAssemblyReference.cache
+D:\projects\IndZad\IndZad\obj\Debug\IndZad.Form1.resources
+D:\projects\IndZad\IndZad\obj\Debug\IndZad.Properties.Resources.resources
+D:\projects\IndZad\IndZad\obj\Debug\IndZad.csproj.GenerateResource.Cache
+D:\projects\IndZad\IndZad\obj\Debug\IndZad.exe
+D:\projects\IndZad\IndZad\obj\Debug\IndZad.pdb
+D:\projects\IndZad\IndZad\bin\Debug\Database1.mdf
+D:\projects\IndZad\IndZad\bin\Debug\Database1_log.ldf
+C:\Users\Владелец\Desktop\IndZad\IndZad\bin\Debug\IndZad.exe.config
+C:\Users\Владелец\Desktop\IndZad\IndZad\obj\Debug\IndZad.exe
+C:\Users\Владелец\Desktop\IndZad\IndZad\obj\Debug\IndZad.pdb
